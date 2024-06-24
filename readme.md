@@ -50,4 +50,4 @@ Nesse projeto desenvolvi um artigo utilizando IA para gerar os conteúdos. O tem
 
 **Gabriela Andrade de Torres**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabistorres85)	[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-andrade-de-torres-44485a180/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabistorres85)	[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriela-andrade-de-torres-2003e2010e2023)
